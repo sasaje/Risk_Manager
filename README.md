@@ -1,4 +1,4 @@
-# Risk_Manager
+# Risk Manager
 
 Visionen for vores Risk Manager er, at lave et system som kan assistere os med at lave og simplificere processen for risikovurderinger i kontekst til forskellige opgaver og projekter. Systemet skal kunne skabe klarhed og forståelse for risikoanalyse.
 
